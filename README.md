@@ -6,4 +6,5 @@ Before run the code install the following packages:
 - Opencv
 - Flask
 
-=> pip install -r requirements.txt 
+pip install -r requirements.txt 
+python main.py
